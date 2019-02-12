@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meehov.yun1design.com/sitemap.xml
